@@ -9,7 +9,7 @@ Aşağıda, proje boyunca gerçekleştirilen işlemlerin özeti ve elde edilen g
 
 ---
 
-## 🛠 Gerçekleştirilen İşlemler
+##  Gerçekleştirilen İşlemler
 
 1.  **Veri Toplama:** Toplam **69,833** ham yorum toplandı.
     *   **YouTube:** Aşağıdaki videolardan toplam **65,874** yorum çekildi:
@@ -32,7 +32,7 @@ Aşağıda, proje boyunca gerçekleştirilen işlemlerin özeti ve elde edilen g
 
 ---
 
-## 📊 1. Duygu Durumu ve Genel Atmosfer
+## 1. Duygu Durumu ve Genel Atmosfer
 
 İzleyicilerin filme genel yaklaşımı nasıldır?
 
@@ -48,7 +48,7 @@ Veriler incelendiğinde, izleyici kitlesinin filme karşı ezici bir çoğunlukl
 
 ---
 
-## 🗣️ 2. En Çok Konuşulan Konular (Kelime Bulutu Verileri)
+##  2. En Çok Konuşulan Konular (Kelime Bulutu Verileri)
 
 İzleyicilerin gündeminde neler var?
 
@@ -66,19 +66,19 @@ Tüm veri seti tarandığında en sık kullanılan kelimeler şunlardır:
 
 Peki insanlar **neye** kızıyor veya **neyi** övüyor?
 
-#### ✨ Pozitif Kelimeler
+#### Pozitif Kelimeler
 "Masterpiece" (Başyapıt), "Perfect" (Mükemmel) ve "Genius" (Dahi) kelimeleri öne çıkıyor.
 ![Pozitif Kelimeler](kelime_pozitif_manual.png)
 
-#### 💢 Negatif Kelimeler
+####  Negatif Kelimeler
 Az sayıdaki olumsuz yorumda "Bad" (Kötü), "Boring" (Sıkıcı) ve "Confusing" (Kafa karıştırıcı) ifadeleri görülüyor. Filmin karmaşıklığı bazı izleyiciler için negatif bir unsur olmuş.
 ![Negatif Kelimeler](kelime_negatif_manual.png)
 
-#### 😐 Nötr Kelimeler
+####  Nötr Kelimeler
 Nötr yorumlar daha çok "Soundtrack", "Story" ve "Plot" üzerine odaklı teknik tespitler içeriyor.
 ![Nötr Kelimeler](kelime_notr_manual.png)
 
-### 📈 Analiz Sonuçları ve Çıkarımlar
+###  Analiz Sonuçları ve Çıkarımlar
 
 **Olumlu Yorumlar:**
 `nolan`, `great`, `love`, `story`, `masterpiece`, `amazing`
@@ -103,7 +103,7 @@ Hem olumlu hem olumsuz öğeleri içeriyor; `nolan`, `soundtrack`, `genius`, `st
 
 ---
 
-## 🎬 3. Derinlemesine Analiz: Senaryo vs. Görsellik
+##  3. Derinlemesine Analiz: Senaryo vs. Görsellik
 
 Inception bir görsel şölen mi, yoksa bir senaryo dehası mı?
 
@@ -122,7 +122,7 @@ Bu kategorilerde hangi kelimeler, hangi duygularla kullanılıyor?
 Hans Zimmer'in müzikleri ("Music", "Soundtrack") ve Nolan'ın yönetmenliği teknik açıdan en çok övülen kısımlar.
 ![Görsel Detay](ozel_gorsel_detay.png)
 
-### 📈 Sonuç Analizi ve Stratejik Öneriler
+###  Sonuç Analizi ve Stratejik Öneriler
 
 #### 1️⃣ Olumlu Yorumlar
 *   **Senaryo Derinliği:** `dream`, `end`, `inception`, `mind` kelimeleri pozitif yorumlarda çok yüksek frekansa sahip.
@@ -135,13 +135,13 @@ Hans Zimmer'in müzikleri ("Music", "Soundtrack") ve Nolan'ın yönetmenliği te
 #### 3️⃣ Çıkarım
 > İzleyiciler filmde senaryonun derinliğini, hikaye ve karakter karmaşıklığını daha çok konuşmuş ve değerlendirmiş. Görsellik ve müzik de önemli ama, kampanya için öne çıkarılacak ana özellik **“Senaryo Derinliği”** olmalı. Eğer görsel şov vurgulanacaksa, senaryonun yanında destekleyici olarak kullanılabilir.
 
-#### 🏁 Sonuç: Pazarlama Stratejisi
+####  Sonuç: Pazarlama Stratejisi
 *   Pazarlama mesajlarında **“hikayenin derinliği ve zekice kurgulanmış senaryo”** ön planda olmalı.
 *   Görsel efektler ikinci planda, hikayeyi güçlendiren bir unsur olarak konumlandırılmalı.
 
 ---
 
-## 👥 4. İzleyici Segmentasyonu
+##  4. İzleyici Segmentasyonu
 
 Yorumcuları analiz ettiğimizde 3 farklı profil ortaya çıkıyor.
 
@@ -178,14 +178,14 @@ Her segmentin filme yaklaşımı farklıdır:
 *   **Negatif:** `time`, `life`, `people` → Bazı kullanıcılar zaman kavramı veya temalarla ilgili eleştirilerde bulunmuş.
 *   **Yorum:** Bu segment genel izleyici kitlesi, hem senaryo hem görsel/müzik unsurlarına ilgi göstermiş. Pazarlama kampanyasında senaryonun derinliği ve görsel efektler birlikte öne çıkarılabilir.
 
-#### 💡 Genel Çıkarım
+####  Genel Çıkarım
 *   **Sadık Fan Segmenti (0):** Film genel olarak çok beğenilmiş, kampanyada hayran kitlenin olumlu görüşleri desteklenebilir.
 *   **Hikaye Odaklı Segment (1):** Senaryo ve karakterlerin vurgulanması önemli.
 *   **Genel İzleyici (2):** Hem senaryo hem görsel efektler dikkate alınmalı.
 
 ---
 
-## 🔮 5. Beklenti ve Ortak Özellik Analizi
+##  5. Beklenti ve Ortak Özellik Analizi
 
 Son olarak, her bir grubun filmden ne beklediğini ve hangi kavramlar etrafında birleştiğini inceledik.
 
@@ -205,7 +205,7 @@ Odak noktaları **"Dream"**, **"Inception"**, **"Cobb"**, **"Reality"**. Onlar f
 Odak noktaları **"Time"**, **"Like"**, **"Music"**. Onlar filmin deneyimi ve hissettirdikleriyle ilgileniyor.
 ![Seg2 Beklenti](ozel_beklenti_seg2.png)
 
-### 📈 Segment Beklenti Detayları ve Çıkarımlar
+###  Segment Beklenti Detayları ve Çıkarımlar
 
 #### 1️⃣ Genel İzleyici (Tüm yorumlar)
 *   **Ortak Özellikler:**
@@ -244,24 +244,24 @@ Odak noktaları **"Time"**, **"Like"**, **"Music"**. Onlar filmin deneyimi ve hi
     *   Müzik ve görsellik açısından tatmin edici deneyim.
     *   Genel olarak “harika ve eksiksiz” film deneyimi.
 
-#### 💡 Özet
+####  Özet
 *   **Senaryo derinliği**, özellikle **Segment 1** için kritik.
 *   **Müzik ve görsellik**, **Segment 2** ve fan kitlesi (**Segment 0**) için öncelikli.
 *   **Genel izleyici**, her iki ögeyi de dengeli şekilde ister.
 
 ---
 
-## 🏁 Sonuç
+##  Sonuç
 
 Bu çalışma göstermiştir ki **Inception**, sadece "izlenip geçilen" bir aksiyon filmi değil, izleyicisini düşündüren, teoriler ürettiren ve senaryosuyla görselliğinden çok daha fazla konuşulan bir yapımdır. Farklı beklentilere sahip 3 kitleyi  aynı "başyapıt" algısında birleştirmeyi başarmıştır.
 
-### 🏆 Başarılar
+###  Başarılar
 *   **Senaryo Derinliği:** İzleyiciler özellikle `dream`, `inception`, `reality`, `cobb` gibi kavramlara odaklanmış. Bu, hikayenin karmaşıklığı ve derinliğiyle ilgilendiklerini gösteriyor.
 *   **Karakterler ve Hikaye:** `Cobb`, `story`, `mind`, `plot` gibi kelimeler sıkça geçiyor; karakterlerin ve hikaye anlatımının güçlü olduğu görülüyor.
 *   **Görsel ve İşitsel Kalite:** `Nolan`, `music`, `soundtrack`, `visual`, `acting` gibi kelimeler olumlu yorumlarda çok sayıda geçiyor; film görsel ve işitsel açıdan yüksek kalite sunuyor.
 *   **Tutkulu ve Sadık İzleyici Kitlesi:** Segment analizi, özellikle Segment 1 ve 2’de, filmle ilgili derin düşünce ve tartışmaların yapıldığını gösteriyor. Fan kitlesi filmi ciddi bir şekilde analiz ediyor ve takdir ediyor.
 
-### 🚀 Öneriler – Daha İyi Olması İçin
+###  Öneriler – Daha İyi Olması İçin
 *   **Bazı Karmaşık Noktaları Açıklamak:** `Complex`, `mind`, `end` gibi kelimeler olumsuz ve nötr yorumlarda geçiyor; bazı izleyiciler hikayeyi anlamakta zorlanmış olabilir. Pazarlama veya ek içeriklerle filmdeki karmaşıklığı daha anlaşılır hale getirmek faydalı olabilir.
 *   **Görsel Efektlerin Daha Fazla Öne Çıkması:** Görsel ve işitsel kalite zaten yüksek, ancak segmentlerde senaryo derinliği öne çıkmış; bazı izleyiciler görselliği daha fazla vurgulayan fragman veya tanıtımları tercih edebilir.
 *   **Müzik ve Atmosfer:** `Zimmer`, `soundtrack`, `music` çok olumlu yorum almış; film müziği ve atmosfer öğeleri ile etkileşimi artıracak ek içerikler (ör. film müziği videoları, sahne analizleri) hazırlanabilir.
